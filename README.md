@@ -3,6 +3,6 @@
 - 🌱 I am currently leanring Nodejs, React and Angular.
 - 💞️ I love to collaborate, help & mentor people to solve their problems.
 - 📫 If you like my work please reach out at:
-   Email: mubashirrahman503@gmail.com
-   LinkedIn: https://www.linkedin.com/in/mubashir-rahman886/
+- Email: mubashirrahman503@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mubashir-rahman886/
 
